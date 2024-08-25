@@ -1,0 +1,93 @@
+.home-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.home-pg-container {
+    background-color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    border-top-right-radius:25px;
+    border-top-left-radius: 25px;
+}
+
+.home-pg-card-heading {
+    color: #f19116;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+.home-pg-card-description {
+    color: #7b8794;
+    font-family: cursive;
+    font-size: 21px;
+}
+
+.home-pg-card-button {
+    background-color: #f19116;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 8px;
+    border-width: 0px;
+    border-radius: 4px;
+    width: 100px;
+    margin: 10px;
+}
+.home-pg-card-button:hover {
+    background-color: #e1da0d;
+    width: 120px;
+}
+
+.flatlist-pg {
+    background-color: #222222;
+    height: 100vh;
+    padding: 16px;
+}
+
+.flatlist-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 20px;
+}
+
+.flatlist-card:hover {
+    background-color: #e3def9;
+} 
+.flatlist-img {
+    height: 170px;
+    padding: 10px;
+}
+.flatlist-heading {
+    font-family: serif;
+    color: #0f0e46 ;
+    font-weight: 500;
+}
+
+.flatlist-description {
+    color: #6c6b70;
+    font-family: serif;
+
+}
+
+.flatdetaild-pg-img {
+    width: 100vw;
+    height: 40vh;
+}
+.flat-details-pg {
+    background-color: #222222;
+    height: 100vh;
+    padding: 16px;
+}
+.flat-details-pg-description {
+    color: #ffffff;
+}
+
+.flat-icon {
+    height: 0px;
+
+}
